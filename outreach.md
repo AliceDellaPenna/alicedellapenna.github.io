@@ -4,7 +4,7 @@ title: outreach
 
 ---
 
-| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+|[Home](./index.html) |[Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
 
 
 <img src="images/CTD2.png" alt="drawing" width="1270"/>
