@@ -4,6 +4,9 @@ title: Research
 
 ---
 
+| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+
+
 My research revolves around five themes that are related in their aim of understanding how marine ecosystems are affected by currents and patterns in physical properties. These themes are:
 1. impact of eddies and fronts on the distribution of phytoplankton; 
 2. zooplankton grazing in a flowing environment; 
