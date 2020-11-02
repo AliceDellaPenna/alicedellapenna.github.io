@@ -3,6 +3,9 @@ layout: default
 title: publications
 ---
 
+| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+
+
 Peer-reviewed publications 
 ==========================
 
