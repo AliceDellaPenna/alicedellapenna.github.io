@@ -4,6 +4,9 @@ title: outreach
 
 ---
 
+| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+
+
 <img src="images/CTD2.png" alt="drawing" width="1270"/>
 _A carousel of Niskin bottles and sensors (including conductivity, temperature, pressure, light, etc.) is immersed in the ocean. This kit is then lowered down the deep ocean where some bottles are triggered from the surface to close and trap the water typical from the wanted depth. On the way up, we stop several times to collect water at different depths, while the sensors constantly collect data during both descent and ascent. Photo snapped by Gloria Salgado Gispert during the SOTS/EDDY voyage in 2016._
 
