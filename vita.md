@@ -3,7 +3,7 @@ layout: default
 title: vita
 ---
 
-| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+|[Home](./index.html) |[Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
 
 
 ## Education  
