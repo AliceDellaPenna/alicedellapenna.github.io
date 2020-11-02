@@ -3,6 +3,9 @@ layout: default
 title: vita
 ---
 
+| [Research](./research.html)          | [Publications](./publications.html)            | [Teaching](./teaching.html)   |  [Outreach](./outreach.html)         | [CV](./vita.html)     |
+
+
 ## Education  
 
 * _2012-2016_  **Ph.D. in Quantitative Marine Science**, University of Tasmania, Hobart, Australia
