@@ -1,2 +1,5 @@
 title: Alice Della Penna
 theme: jekyll-theme-midnight
+
+  load_paths:
+    - _sass
