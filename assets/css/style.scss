@@ -1,32 +1,7 @@
 ---
 ---
 
-@import "";
-@charset "utf-8";
-
-// Overall width of the site 
-$textwidth: 70em;
-
-// Text alignment centered
-$headeralign:center; $footeralign:center; $bodyalign:justify; $figtitlealign: center;
-
-// Text alignment leftish
-//$headeralign:left; $footeralign: center; $bodyalign:left; $figtitlealign: left;
-
-
-// Ali's color scheme
-$background:#ffefd5; $linkcolor:#00305f; $deemphasis:#083867; $accent:#33AA99; 
-// # fff8dc
-// Fonts
-$textfont:Calibri; $codefont:Calibri;
-
-
-//Letter spacing
-$normal:0.06em; $wide:0.1em; $verywide:0.2em;
-
-// Text for title and nav
-$titlesize: x-large; $titletransform: lowercase; 
-$navsize: large; $navtransform: lowercase; $activenav: overline; 
+@import "custom-variables";
 
 
 
