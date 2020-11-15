@@ -8,7 +8,7 @@ layout: default
 
 
 
-I am a marine scientist investigating how organisms and ecosystems are affected by the ocean's dynamic environment. I mostly focus on physical/biological interactions at spatio-temporal from few to hundreds of kilometers and a few hours to months. I am interested in understanding how the physical environment affects marine organisms and ecosystems and how our understanding of these interactions can help us design conservation and management policies that fit the dynamic nature of coastal and open ocean regions.
+I am a marine scientist investigating how organisms and ecosystems are affected by the ocean's dynamic environment. I mostly focus on physical/biological interactions at spatio-temporal scales ranging from few to hundreds of kilometers and a few hours to months. I am excited to learn how our understanding of these interactions can help us design conservation and management policies that fit the dynamic nature of coastal and open ocean regions.
 
 <img src="images/at-sea.jpg" alt="iew from the backdeck of the R/V Atlantis (NAAMES 3 - 2017)." width="1270"/>
 _View from the backdeck of the R/V Atlantis (NAAMES 3 - 2017)._
