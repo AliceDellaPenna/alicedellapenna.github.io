@@ -15,10 +15,19 @@ My research revolves around five themes that are related in their aim of underst
 5. fine scale drivers of spatial and temporal variability of micronekton.
 
 
-
 **Current projects**
 ==========================
 
+### The Impact of a Southern Ocean Eddy on mesopelagic micronekton 
+
+Mesoscale eddies are rotating currents that are ubiquitous in the ocean. They are the oceanic equivalent of weather patterns and have typically radii of 10-100 km and lifetimes between weeks and months. Mesoscale eddies have a dramatic impact on the distribution of primary production in the open ocean, on the transport of heat and salt across oceanic regions, on global biogeochemical cycles, and on the feeding behavior of apex predators such as pinnipeds, sharks, billfishes, and seabirds. In this study, we aim to evaluate the impact of a Southern Ocean mesoscale eddy on the distribution of deep water micronekton, a diverse group of small animals including fish, crustacea, and squids. Our results suggest that the abundance and vertical distribution of deep water micronekton, detected using a sonar, inside the sampled mesoscale eddy differed from those of the surrounding waters. Micronekton distribution and abundance were instead more similar to those of the locations where the eddy had originated a month prior to our sampling. Our results suggest that mesoscale eddies can maintain their biological characteristics from its source waters creating a unique habitat compared to its surrounding waters.
+
+<img src="images/SOeddy.png" alt="drawing" width="1270"/>
+_Example of an echogram collected in the North Atlantic. Different colors indicate differences in the intensity of sound reflected by organisms such as zooplankton and micronketon near the surface and in deep scattering layers (~ 400 m). This echogram was collected during transit from an eddy core (left side of the plot) through the periphery and then out in ambient waters. On the right, example of myctophid (lanternfish) collected during a mid-water trawl._
+
+
+**Past projects**
+==========================
 
 ### MEchanisms of Coupling of Ocean Dynamics and Intermediate trophic levels: High Resolution study (MECODIHR)
 
@@ -34,9 +43,6 @@ _Example of an echogram collected in the North Atlantic. Different colors indica
 
 
 
-
-**Past projects**
-==========================
 
 ### North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)
 The **[North Atlantic Aerosols and Marine Ecosystems Study](https://naames.larc.nasa.gov/)** (NAAMES, P.I. Michael J. Behrenfeld) is an interdisciplinary effort to characterize plankton ecosystem properties through the annual cycle and determine how remote marine aerosols and boundary layer clouds are influenced by marine ecosystems, especially by phytoplankton. This study was carried out in the nortwestern Atlantic, a region characterized by intense mesoscale and submesoscale variability that has been observed to affect phytoplankton abundance, phenology and community composition. My role in this project, with **[Peter Gaube (APL-UW)](https://submesoscale.org/)** has been to help designing a sampling strategy to target mesoscale features having different polarities (i.e., cyclones and anticyclones) and retentive properties as well as interpreting specific patterns in phytoplankton abundance and community composition in respect to the spatial distribution of fronts and eddies. Peter and I have also used the opportunity to be onboard the R/V Atlantis to collect acoustic and net samples to understand how eddies and fronts affect the distribution of fish and zooplankton (see MECODIHR project).
