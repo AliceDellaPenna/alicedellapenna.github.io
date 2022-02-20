@@ -11,12 +11,12 @@ Peer-reviewed publications
 
 18 - Whitehead, E. A., Russell, J. C., Hickey, A. J., Taylor, G. A., O'Reilly, K. M., **Della Penna, A.**, & Dunphy, B. J. (2022). "Seabird stress and breeding: Endocrine
 and hematological stress biomarkers differ between gray‐faced petrel (Pterodroma gouldi) colonies", Journal of Experimental Zoology Part A: Ecological and Integrative
-Physiology, 1–12.[doi.org/10.1002/jez.2576](https://doi.org/10.1002/jez.2576)
+Physiology, 1–12, [doi.org/10.1002/jez.2576](https://doi.org/10.1002/jez.2576)
 
 17 - Schulien, J. A., **Della Penna, A.**, \[...\] and Behrenfeld, M.,
 “Shifts in Phytoplankton Community Structure Across an Anticyclonic Eddy
 Revealed from High Spectral Resolution Lidar Scattering Measurements”, Frontiers in Marine Science,
-(2020),  [doi 10.3389/fmars.2020.00493](https://doi.org/10.3389/fmars.2020.00493) 
+(2020), [doi 10.3389/fmars.2020.00493](https://doi.org/10.3389/fmars.2020.00493) 
 
 16 - **Della Penna, A.** and Gaube, P, “Mesoscale eddies structure
 mesopelagic communities”, Frontiers in Marine Science, (2020), [doi 10.3389/fmars.2020.00454](https://doi.org/10.3389/fmars.2020.00454)
