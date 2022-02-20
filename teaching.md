@@ -8,7 +8,7 @@ title: teaching
 
 ## Teaching
 
-Information about the courses at the University of Auckland can be found on the websites of the [Institute of Marine Science] (https://www.auckland.ac.nz/en/science/about-the-faculty/institute-of-marine-science.html) and the [School of Biological Sciences](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences.html).
+Information about the courses at the University of Auckland can be found on the websites of the [Institute of Marine Science](https://www.auckland.ac.nz/en/science/about-the-faculty/institute-of-marine-science.html) and the [School of Biological Sciences](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences.html).
 
 During **Semester 1** in 2022 I will be teaching lectures in these courses:
 
