@@ -9,7 +9,9 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-
+18 - Whitehead, E. A., Russell, J. C., Hickey, A. J., Taylor, G. A., O'Reilly, K. M., **Della Penna, A.**, & Dunphy, B. J. (2022). "Seabird stress and breeding: Endocrine
+and hematological stress biomarkers differ between gray‐faced petrel (Pterodroma gouldi) colonies", Journal of Experimental Zoology Part A: Ecological and Integrative
+Physiology, 1–12.[doi.org/10.1002/jez.2576](https://doi.org/10.1002/jez.2576)
 
 17 - Schulien, J. A., **Della Penna, A.**, \[...\] and Behrenfeld, M.,
 “Shifts in Phytoplankton Community Structure Across an Anticyclonic Eddy
@@ -27,7 +29,6 @@ S., “Small phytoplankton dominate western North Atlantic biomass ”, The ISME
 14 - Haëntjens, N., **Della Penna, A.**, Briggs, N., Karp‐Boss, L., Gaube,
 P., Claustre, H., and Boss, E. “Detecting mesopelagic organisms using
 biogeochemical‐Argo floats”, Geophysical Research Letters, (2020), [doi 10.1029/2019GL086088]( https://doi.org/10.1029/2019GL086088)
-
 
 13 -  Behrenfeld, M.J., Gaube, P., **Della Penna, A.**, O’Malley, R.T., Burt,
 W. J., Hu, Yongxiang, Bontempi, P., Steinberg, D. K., Boss, E. S.,
@@ -95,7 +96,9 @@ Lagrangian approach" Journal of Physics A: Mathematical and Theoretical
 
 Other publications 
 ==================
+7 - **Della Penna., A.**, "Variability of oceanographic features off the North Shelf", in "State of our Seabirds 2021", (2021)
 
+6 - **Della Penna., A.**, Braun, C.D., Gaube, P., and d’Ovidio, F., “Fine-scale structuring of open ocean ecosystems: From observations to management in a changing climate'', U.S. CLIVAR Newsletter, Fall 2021, (2021)
 
 5 - Hasson, A., Boutin, J., **Della Penna, A.**, Morrow, R., and d’Ovidio,
 F., “Les satellites pour l’observation des tourbillons océaniques”, in
