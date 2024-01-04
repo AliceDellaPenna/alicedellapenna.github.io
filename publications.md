@@ -11,7 +11,7 @@ Peer-reviewed publications
 
 26. Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, (2023), Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120](doi.org/10.1073/pnas.2306357120)
 
-25. You, Y., **Della Penna, A.**, Thrush, S., “Modelled broad-scale shifts on seafloor ecosystem functioning due to microplastic impacts on bioturbation”, Scientific Reports, (2023), [https://doi.org/10.1038/s41598-023-44425-8] (doi.org/10.1038/s41598-023-44425-8)
+25. You, Y., **Della Penna, A.**, Thrush, S., “Modelled broad-scale shifts on seafloor ecosystem functioning due to microplastic impacts on bioturbation”, Scientific Reports, (2023), [doi.org/10.1038/s41598-023-44425-8] (doi.org/10.1038/s41598-023-44425-8)
 
 24. Knowles, B., Bonachela, J.A., Cieslik, N., **Della Penna, A.**, Diaz, B., Baetge, N., Behrenfeld, M.J., Naumovitz, K., Boss, E., Graff, J.R. and Halsey, K.H.,. “Altered growth and death in dilution-based viral predation assays”. PloS one, 18(7), p.e0288114. (2023), [doi.org/10.1371/journal.pone.0288114](doi.org/10.1371/journal.pone.0288114)
 
