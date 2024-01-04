@@ -17,7 +17,8 @@ title: vita
       
 ## Professional Experience 
 
-* _2020-present_ **Lecturer**, University of Auckland (New Zealand)
+* _2024-present **Senior Lecturer**, University of Auckland (New Zealand)
+* _2020-2023_ **Lecturer**, University of Auckland (New Zealand)
 * _2018-2020_  **Marie Sklodowska-Curie Fellow**, Applied Physics Laboratory (Seattle, U.S.A.) and Université de la Bretagne Occidentale (Brest, France)
 * _2017-2018_ **SEED Post Doctoral Research Associate**, Applied Physics Laboratory (Seattle, U.S.A.)
 * _2016_  **Research Engineer**, Mediterranean Institute of Oceanology (Marseille, France)
