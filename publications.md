@@ -9,7 +9,7 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-26. Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, (2023), Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120] (doi.org/10.1073/pnas.2306357120)
+26. Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, (2023), Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120](doi.org/10.1073/pnas.2306357120)
 
 25. You, Y., **Della Penna, A.**, Thrush, S., “Modelled broad-scale shifts on seafloor ecosystem functioning due to microplastic impacts on bioturbation”, Scientific Reports, (2023), [https://doi.org/10.1038/s41598-023-44425-8] (doi.org/10.1038/s41598-023-44425-8)
 
