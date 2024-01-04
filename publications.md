@@ -23,7 +23,7 @@ Peer-reviewed publications
 
 20. Baetge, N., Bolaños, L. M., **Della Penna, A.**, Gaube, P., Liu, S., Opalk, K., ... & Carlson, C. A. ,“Bacterioplankton response to physical stratification following deep convection.” Elementa Science of the Anthropocene, (2022), [doi.org/10.1525/elementa.2021.00078](doi.org/10.1525/elementa.2021.00078)
 
-19. Elliott, R. G., Montgomery, J. C., **Della Penna, A.**, & Radford, C. A., “Satellite tags describe movement and diving behaviour of blue sharks Prionace glauca in the southwest Pacific.” Marine Ecology Progress Series, (2022), [doi.org/10.3354/meps14037](doi.org/10.3354/meps14037) 
+19. Elliott, R. G., Montgomery, J. C., **Della Penna, A.**, & Radford, C. A., “Satellite tags describe movement and diving behaviour of blue sharks Prionace glauca in the southwest Pacific.” Marine Ecology Progress Series, (2022), [doi.org/10.3354/meps14037](doi.org/10.3354/meps14037)
 
 18 - Whitehead, E. A., Russell, J. C., Hickey, A. J., Taylor, G. A., O'Reilly, K. M., **Della Penna, A.**, & Dunphy, B. J., "Seabird stress and breeding: Endocrine
 and hematological stress biomarkers differ between gray‐faced petrel (Pterodroma gouldi) colonies", Journal of Experimental Zoology Part A: Ecological and Integrative
