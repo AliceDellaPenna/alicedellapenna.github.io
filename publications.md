@@ -9,9 +9,25 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-18 - Whitehead, E. A., Russell, J. C., Hickey, A. J., Taylor, G. A., O'Reilly, K. M., **Della Penna, A.**, & Dunphy, B. J. (2022). "Seabird stress and breeding: Endocrine
+26. Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, (2023), Proceedings of the National Academy of Sciences, (2023), [https://doi.org/10.1073/pnas.2306357120] (doi.org/10.1073/pnas.2306357120)
+
+25. You, Y., **Della Penna, A.**, Thrush, S., “Modelled broad-scale shifts on seafloor ecosystem functioning due to microplastic impacts on bioturbation”, Scientific Reports, (2023), [https://doi.org/10.1038/s41598-023-44425-8] (doi.org/10.1038/s41598-023-44425-8)
+
+24. Knowles, B., Bonachela, J.A., Cieslik, N., **Della Penna, A.**, Diaz, B., Baetge, N., Behrenfeld, M.J., Naumovitz, K., Boss, E., Graff, J.R. and Halsey, K.H.,. “Altered growth and death in dilution-based viral predation assays”. PloS one, 18(7), p.e0288114. (2023), [doi.org/10.1371/journal.pone.0288114](doi.org/10.1371/journal.pone.0288114)
+
+23. McKee, D. C., Doney, S. C., **Della Penna, A.**, Boss, E. S., Gaube, P., & Behrenfeld, M. J., “Biophysical dynamics at ocean fronts revealed by Bio‐Argo floats.” Journal of Geophysical Research: Oceans (2023), [doi.org/10.1029/2022JC019226](doi.org/10.1029/2022JC019226)
+
+22. McKee, D. C., Doney, S. C., **Della Penna, A.**, Boss, E. S., Gaube, P., Behrenfeld, M. J., & Glover, D. M., “Lagrangian and Eulerian time and length scales of mesoscale ocean chlorophyll from Bio-Argo floats and satellites”, Biogeosciences, (2022), [doi.org/10.5194/bg-19-5927-2022](doi.org/10.5194/bg-19-5927-2022)
+
+21. **Della Penna, A.**, Llort., J., Moreau, S., Patel, R., Kloser, R., Gaube, P., Strutton, P., Boyd, P.W., “The Impact of a Southern Ocean Cyclonic Eddy on Mesopelagic Micronekton”, Journal of Geophysical Research: Oceans, (2022), [doi.org/10.1029/2022JC018893](doi.org/10.1029/2022JC018893)
+
+20. Baetge, N., Bolaños, L. M., **Della Penna, A.**, Gaube, P., Liu, S., Opalk, K., ... & Carlson, C. A. ,“Bacterioplankton response to physical stratification following deep convection.” Elementa Science of the Anthropocene, (2022), [doi.org/10.1525/elementa.2021.00078](doi.org/10.1525/elementa.2021.00078)
+
+19. Elliott, R. G., Montgomery, J. C., **Della Penna, A.**, & Radford, C. A., “Satellite tags describe movement and diving behaviour of blue sharks Prionace glauca in the southwest Pacific.” Marine Ecology Progress Series, (2022), [doi.org/10.3354/meps14037](doi.org/10.3354/meps14037) 
+
+18 - Whitehead, E. A., Russell, J. C., Hickey, A. J., Taylor, G. A., O'Reilly, K. M., **Della Penna, A.**, & Dunphy, B. J., "Seabird stress and breeding: Endocrine
 and hematological stress biomarkers differ between gray‐faced petrel (Pterodroma gouldi) colonies", Journal of Experimental Zoology Part A: Ecological and Integrative
-Physiology, 1–12, [doi.org/10.1002/jez.2576](https://doi.org/10.1002/jez.2576)
+Physiology, 1–12, (2022), [doi.org/10.1002/jez.2576](https://doi.org/10.1002/jez.2576)
 
 17 - Schulien, J. A., **Della Penna, A.**, \[...\] and Behrenfeld, M.,
 “Shifts in Phytoplankton Community Structure Across an Anticyclonic Eddy
@@ -20,7 +36,6 @@ Revealed from High Spectral Resolution Lidar Scattering Measurements”, Frontie
 
 16 - **Della Penna, A.** and Gaube, P, “Mesoscale eddies structure
 mesopelagic communities”, Frontiers in Marine Science, (2020), [doi 10.3389/fmars.2020.00454](https://doi.org/10.3389/fmars.2020.00454)
-
 
 15 -  Bolaños, L., Karp-Boss, L., Choi C.,J., Worden, A., Graff, J.,
 Haëntjens, N., Chase, A., **Della Penna, A.**,\[...\], and Giovannoni,
