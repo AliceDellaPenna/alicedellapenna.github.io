@@ -9,7 +9,7 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-28. Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024): [doi.org/10.3389/fmars.2023.1292081] (doi.org/10.3389/fmars.2023.1292081)
+28 -  Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024): [doi.org/10.3389/fmars.2023.1292081] (doi.org/10.3389/fmars.2023.1292081)
 
 27 - Lhériau‐Nice, A., & **Della Penna, A.**, "Variability of Fine‐Scale Chlorophyll Fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand". Journal of Geophysical Research: Oceans,(2024), [doi.org/10.1029/2023JC020391](doi.org/10.1029/2023JC020391)
 
