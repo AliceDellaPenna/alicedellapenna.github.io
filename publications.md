@@ -9,7 +9,11 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-26 - Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, (2023), Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120](doi.org/10.1073/pnas.2306357120)
+28. Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024): [doi.org/10.3389/fmars.2023.1292081] (doi.org/10.3389/fmars.2023.1292081)
+
+27 - Lhériau‐Nice, A., & **Della Penna, A.**, "Variability of Fine‐Scale Chlorophyll Fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand". Journal of Geophysical Research: Oceans,(2024), [doi.org/10.1029/2023JC020391](doi.org/10.1029/2023JC020391)
+
+26 - Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120](doi.org/10.1073/pnas.2306357120)
 
 25 - You, Y., **Della Penna, A.**, Thrush, S., “Modelled broad-scale shifts on seafloor ecosystem functioning due to microplastic impacts on bioturbation”, Scientific Reports, (2023), [doi.org/10.1038/s41598-023-44425-8](doi.org/10.1038/s41598-023-44425-8)
 
@@ -111,6 +115,8 @@ Lagrangian approach" Journal of Physics A: Mathematical and Theoretical
 
 Other publications 
 ==================
+8 - Doglioli, A., Grégori, G., D'Ovidio, F.,[...],**Della Penna, A.,**,[...], "BioSWOT Med. Biological applications of the satellite Surface Water and Ocean Topography in the Mediterranean", (2024)
+
 7 - **Della Penna., A.**, "Variability of oceanographic features off the North Shelf", in "State of our Seabirds 2021", (2021)
 
 6 - **Della Penna., A.**, Braun, C.D., Gaube, P., and d’Ovidio, F., “Fine-scale structuring of open ocean ecosystems: From observations to management in a changing climate'', U.S. CLIVAR Newsletter, Fall 2021, (2021)
