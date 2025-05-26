@@ -9,6 +9,8 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
+29. Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography.(2025),[doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
+
 28 -  Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024): [doi.org/10.3389/fmars.2023.1292081](doi.org/10.3389/fmars.2023.1292081)
 
 27 - Lhériau‐Nice, A., & **Della Penna, A.**, "Variability of Fine‐Scale Chlorophyll Fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand". Journal of Geophysical Research: Oceans,(2024), [doi.org/10.1029/2023JC020391](doi.org/10.1029/2023JC020391)
@@ -115,6 +117,8 @@ Lagrangian approach" Journal of Physics A: Mathematical and Theoretical
 
 Other publications 
 ==================
+9 - Doglioli A., Ballerini T. (eds). "People, science and instruments of the BioSWOT-Med Campaign.", (2025)  [doi.org/10.13155/105690] ([doi.org/10.13155/105690]), - contribution
+
 8 - Doglioli, A., Grégori, G., D'Ovidio, F.,[...], **Della Penna, A.,**, [...], "BioSWOT Med. Biological applications of the satellite Surface Water and Ocean Topography in the Mediterranean", (2024)
 
 7 - **Della Penna., A.**, "Variability of oceanographic features off the North Shelf", in "State of our Seabirds 2021", (2021)
