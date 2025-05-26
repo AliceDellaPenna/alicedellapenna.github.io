@@ -9,7 +9,7 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-29. Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography, (2025), [doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
+29 - Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography, (2025), [doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
 
 28 -  Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024), [doi.org/10.3389/fmars.2023.1292081](doi.org/10.3389/fmars.2023.1292081)
 
