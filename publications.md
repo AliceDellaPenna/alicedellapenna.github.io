@@ -9,11 +9,11 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-29. Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography.(2025),[doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
+29. Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography, (2025), [doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
 
-28 -  Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024): [doi.org/10.3389/fmars.2023.1292081](doi.org/10.3389/fmars.2023.1292081)
+28 -  Michie, C., Lundquist C.,J., Lavery, S. D., and **Della Penna, A.**, "Spatial and temporal variation in the predicted dispersal of marine larvae around coastal Aotearoa New Zealand." Frontiers in Marine Science 10, (2024), [doi.org/10.3389/fmars.2023.1292081](doi.org/10.3389/fmars.2023.1292081)
 
-27 - Lhériau‐Nice, A., & **Della Penna, A.**, "Variability of Fine‐Scale Chlorophyll Fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand". Journal of Geophysical Research: Oceans,(2024), [doi.org/10.1029/2023JC020391](doi.org/10.1029/2023JC020391)
+27 - Lhériau‐Nice, A., & **Della Penna, A.**, "Variability of Fine‐Scale Chlorophyll Fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand". Journal of Geophysical Research: Oceans, (2024), [doi.org/10.1029/2023JC020391](doi.org/10.1029/2023JC020391)
 
 26 - Braun, C. D., **Della Penna, A.**, Arostegui, M.C.,[...], Thorrold, S.,R., “Linking vertical movements of large pelagic predators with distribution patterns of biomass in the open ocean”, Proceedings of the National Academy of Sciences, (2023), [doi.org/10.1073/pnas.2306357120](doi.org/10.1073/pnas.2306357120)
 
