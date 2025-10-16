@@ -9,11 +9,11 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-33. Lhériau-Nice, A., Kozmian-Ledward, L., Milesi-Gaches, D. and **Della Penna, A.**, "Plankton distribution patterns across fine scale fronts in the Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf, Aotearoa New Zealand.", (2025), Marine and Freshwater Research.
+33 -  Lhériau-Nice, A., Kozmian-Ledward, L., Milesi-Gaches, D. and **Della Penna, A.**, "Plankton distribution patterns across fine scale fronts in the Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf, Aotearoa New Zealand.", (2025), Marine and Freshwater Research.
 
-32. Riekkola, L., Sprogis, K.R., **Della Penna, A.**, Andrews-Goff, V., Harcourt, R., Cole, R., Constantine, R., Goetz, K.T., Lundquist, D., Stuck, E. and Zerbini, A.N., "Large-scale differences, mesoscale similarities: Neighbouring marine predator populations provide insights into Southern Ocean productivity". Global Ecology and Conservation, (2025), [doi.org/10.1016/j.gecco.2025.e03788](doi.org/10.1016/j.gecco.2025.e03788)
+32 -  Riekkola, L., Sprogis, K.R., **Della Penna, A.**, Andrews-Goff, V., Harcourt, R., Cole, R., Constantine, R., Goetz, K.T., Lundquist, D., Stuck, E. and Zerbini, A.N., "Large-scale differences, mesoscale similarities: Neighbouring marine predator populations provide insights into Southern Ocean productivity". Global Ecology and Conservation, (2025), [doi.org/10.1016/j.gecco.2025.e03788](doi.org/10.1016/j.gecco.2025.e03788)
 
-31. Rousselet, L., d’Ovidio, F., Izard, L., **Della Penna, A.**, Petrenko, A., Barrillon, S., Nencioli, F. and Doglioli, A., "A Software Package for an Adaptive Satellite-based Sampling for Oceanographic cruises (SPASSOv2. 0): tracking fine scale features for physical and biogeochemical studies." Journal of Atmospheric and Oceanic Technology, (2025), [doi.org/10.1175/JTECH-D-24-0071.1](doi.org/10.1175/JTECH-D-24-0071.1)
+31 - Rousselet, L., d’Ovidio, F., Izard, L., **Della Penna, A.**, Petrenko, A., Barrillon, S., Nencioli, F. and Doglioli, A., "A Software Package for an Adaptive Satellite-based Sampling for Oceanographic cruises (SPASSOv2. 0): tracking fine scale features for physical and biogeochemical studies." Journal of Atmospheric and Oceanic Technology, (2025), [doi.org/10.1175/JTECH-D-24-0071.1](doi.org/10.1175/JTECH-D-24-0071.1)
 
 30 - Lhériau‐Nice, Alexandre, Denham G. Cook, and **Della Penna, A.**,. "Highly mobile pelagic species co‐occur with fine‐scale ocean fronts." Limnology and Oceanography, (2025), [doi.org/10.1002/lno.70083](doi.org/10.1002/lno.70083)
 
