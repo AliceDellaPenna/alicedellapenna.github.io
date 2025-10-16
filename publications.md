@@ -9,7 +9,7 @@ title: publications
 Peer-reviewed publications 
 ==========================
 
-33 -  Lhériau-Nice, A., Kozmian-Ledward, L., Milesi-Gaches, D. and **Della Penna, A.**, "Plankton distribution patterns across fine scale fronts in the Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf, Aotearoa New Zealand.", (2025), Marine and Freshwater Research.
+33 -  Lhériau-Nice, A., Kozmian-Ledward, L., Milesi-Gaches, D. and **Della Penna, A.**, "Plankton distribution patterns across fine scale fronts in the Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf, Aotearoa New Zealand.", (2025), Marine and Freshwater Research, [doi.org/10.1071/MF24214](doi.org/10.1071/MF24214)
 
 32 -  Riekkola, L., Sprogis, K.R., **Della Penna, A.**, Andrews-Goff, V., Harcourt, R., Cole, R., Constantine, R., Goetz, K.T., Lundquist, D., Stuck, E. and Zerbini, A.N., "Large-scale differences, mesoscale similarities: Neighbouring marine predator populations provide insights into Southern Ocean productivity". Global Ecology and Conservation, (2025), [doi.org/10.1016/j.gecco.2025.e03788](doi.org/10.1016/j.gecco.2025.e03788)
 
