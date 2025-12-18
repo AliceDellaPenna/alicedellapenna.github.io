@@ -8,6 +8,11 @@ title: publications
 
 Peer-reviewed publications 
 ==========================
+36 - Cooper, T.M., Green, L., Setyawan, E., Erdmann, M., Duffy, C.A.J., Constantine, R., and **Della Penna, A.**, "Movement ecology and foraging behaviours of oceanic manta rays _Mobula birostris_ in the coastal waters of Aotearoa, New Zealand", Royal Society Open Science, (2025),[doi.org/10.1098/rsos.250838](https://doi.org/10.1098/rsos.250838)
+
+35 - You, Y., **Della Penna, A.**, Thursh, S.F., "Changes in particle-mixing by benthic infauna induced by microplastics: Implications for nitrogen cycling in marine sediments", Marine Ecology Progress Series, (2025),[doi.org/10.3354/meps15031](https://doi.org/10.3354/meps15031)
+
+34 - Braun, C. D., Gaube, P., **Della Penna, A.**, Thorrold, S. R., McDonnell, L. H., Fischer, G. C., ... & Arostegui, M. C. "Pelagic sharks target long‐lived, retentive anticyclonic eddies in the Northwest Atlantic Ocean". Limnology and Oceanography, (2025), [doi.org/10.1002/lno.70260](doi.org/10.1002/lno.70260)
 
 33 -  Lhériau-Nice, A., Kozmian-Ledward, L., Milesi-Gaches, D. and **Della Penna, A.**, "Plankton distribution patterns across fine scale fronts in the Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf, Aotearoa New Zealand.", (2025), Marine and Freshwater Research, [doi.org/10.1071/MF24214](doi.org/10.1071/MF24214)
 
