@@ -8,13 +8,13 @@ title: publications
 
 Peer-reviewed publications 
 ==========================
-40 - van Leeuwen, A. F. M., **Della Penna, A.**, Dickson, M., O’Callaghan, J., & Ryan, E., "Intermittent, Double Estuarine Turbidity Maximum in a Mesotidal Estuary with Low Freshwater Input". Estuaries and Coasts, 49(4), 134, (2026), [https://doi.org/10.1007/s12237-026-01749-8] (https://doi.org/10.1007/s12237-026-01749-8)
+40 - van Leeuwen, A. F. M., **Della Penna, A.**, Dickson, M., O’Callaghan, J., & Ryan, E., "Intermittent, Double Estuarine Turbidity Maximum in a Mesotidal Estuary with Low Freshwater Input". Estuaries and Coasts, 49(4), 134, (2026), [https://doi.org/10.1007/s12237-026-01749-8](https://doi.org/10.1007/s12237-026-01749-8)
 
-39 - Henry, L. A., Cleland, J., Gebruk, A., Schubert, R., **Della Penna, A.**, Gaube, P., ... & Roberts, J. M., "Mesoscale eddies in the subpolar North Atlantic: their ecological importance and conservation significance", Progress in Oceanography, 103760, (2026), [https://doi.org/10.1016/j.pocean.2026.103760] (https://doi.org/10.1016/j.pocean.2026.103760)
+39 - Henry, L. A., Cleland, J., Gebruk, A., Schubert, R., **Della Penna, A.**, Gaube, P., ... & Roberts, J. M., "Mesoscale eddies in the subpolar North Atlantic: their ecological importance and conservation significance", Progress in Oceanography, 103760, (2026), [https://doi.org/10.1016/j.pocean.2026.103760](https://doi.org/10.1016/j.pocean.2026.103760)
 
-38 - Duranson, M., Berline, L., Guilloux, L., **Della Penna, A.**, Ohman, M. D., Gastauer, S., ... & Carlotti, F., "The North Balearic Front as an ecological boundary: zooplankton fine-scale distribution patterns in late spring". Biogeosciences, 23(1), 363-385, (2026), [https://doi.org/10.5194/bg-23-363-2026] (https://doi.org/10.5194/bg-23-363-2026)
+38 - Duranson, M., Berline, L., Guilloux, L., **Della Penna, A.**, Ohman, M. D., Gastauer, S., ... & Carlotti, F., "The North Balearic Front as an ecological boundary: zooplankton fine-scale distribution patterns in late spring". Biogeosciences, 23(1), 363-385, (2026), [https://doi.org/10.5194/bg-23-363-2026](https://doi.org/10.5194/bg-23-363-2026)
 
-37 - Culhane, E.F., **Della Penna, A.**, Proud, R. and Braun, C.D., "Image-based machine learning reveals structural “fingerprints” of pelagic seascapes in shipboard echograms", ICES Journal of Marine Science, 82(12), (2025) [https://doi.org/10.1093/icesjms/fsaf221] (https://doi.org/10.1093/icesjms/fsaf221)
+37 - Culhane, E.F., **Della Penna, A.**, Proud, R. and Braun, C.D., "Image-based machine learning reveals structural “fingerprints” of pelagic seascapes in shipboard echograms", ICES Journal of Marine Science, 82(12), (2025) [https://doi.org/10.1093/icesjms/fsaf221](https://doi.org/10.1093/icesjms/fsaf221)
 
 36 - Cooper, T.M., Green, L., Setyawan, E., Erdmann, M., Duffy, C.A.J., Constantine, R., and **Della Penna, A.**, "Movement ecology and foraging behaviours of oceanic manta rays _Mobula birostris_ in the coastal waters of Aotearoa, New Zealand", Royal Society Open Science, (2025),[doi.org/10.1098/rsos.250838](https://doi.org/10.1098/rsos.250838)
 
