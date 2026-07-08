@@ -139,6 +139,7 @@ Lagrangian approach" Journal of Physics A: Mathematical and Theoretical
 Other publications 
 ==================
 10 - van Leeuwen, A. F. M., Ryan, E., Dickson, M., **Della Penna, A.**, & O’Callaghan, J. (2025, April). Insights into Monitoring Turbidity and Nutrient Dynamics in a Large Mesotidal Estuary. In Coastal Dynamics conference (pp. 744-750). Cham: Springer Nature Switzerland.
+
 9 - Doglioli A., Ballerini T. (eds). "People, science and instruments of the BioSWOT-Med Campaign.", (2025)  [doi.org/10.13155/105690] ([doi.org/10.13155/105690]), - contribution
 
 8 - Doglioli, A., Grégori, G., D'Ovidio, F.,[...], **Della Penna, A.,**, [...], "BioSWOT Med. Biological applications of the satellite Surface Water and Ocean Topography in the Mediterranean", (2024)
