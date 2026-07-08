@@ -8,6 +8,14 @@ title: publications
 
 Peer-reviewed publications 
 ==========================
+40 - van Leeuwen, A. F. M., **Della Penna, A.**, Dickson, M., O’Callaghan, J., & Ryan, E., "Intermittent, Double Estuarine Turbidity Maximum in a Mesotidal Estuary with Low Freshwater Input". Estuaries and Coasts, 49(4), 134, (2026), [https://doi.org/10.1007/s12237-026-01749-8] (https://doi.org/10.1007/s12237-026-01749-8)
+
+39 - Henry, L. A., Cleland, J., Gebruk, A., Schubert, R., **Della Penna, A.**, Gaube, P., ... & Roberts, J. M., "Mesoscale eddies in the subpolar North Atlantic: their ecological importance and conservation significance", Progress in Oceanography, 103760, (2026), [https://doi.org/10.1016/j.pocean.2026.103760] (https://doi.org/10.1016/j.pocean.2026.103760)
+
+38 - Duranson, M., Berline, L., Guilloux, L., **Della Penna, A.**, Ohman, M. D., Gastauer, S., ... & Carlotti, F., "The North Balearic Front as an ecological boundary: zooplankton fine-scale distribution patterns in late spring". Biogeosciences, 23(1), 363-385, (2026), [https://doi.org/10.5194/bg-23-363-2026] (https://doi.org/10.5194/bg-23-363-2026)
+
+37 - Culhane, E.F., **Della Penna, A.**, Proud, R. and Braun, C.D., "Image-based machine learning reveals structural “fingerprints” of pelagic seascapes in shipboard echograms", ICES Journal of Marine Science, 82(12), (2025) [https://doi.org/10.1093/icesjms/fsaf221] (https://doi.org/10.1093/icesjms/fsaf221)
+
 36 - Cooper, T.M., Green, L., Setyawan, E., Erdmann, M., Duffy, C.A.J., Constantine, R., and **Della Penna, A.**, "Movement ecology and foraging behaviours of oceanic manta rays _Mobula birostris_ in the coastal waters of Aotearoa, New Zealand", Royal Society Open Science, (2025),[doi.org/10.1098/rsos.250838](https://doi.org/10.1098/rsos.250838)
 
 35 - You, Y., **Della Penna, A.**, Thursh, S.F., "Changes in particle-mixing by benthic infauna induced by microplastics: Implications for nitrogen cycling in marine sediments", Marine Ecology Progress Series, (2025),[doi.org/10.3354/meps15031](https://doi.org/10.3354/meps15031)
@@ -130,6 +138,7 @@ Lagrangian approach" Journal of Physics A: Mathematical and Theoretical
 
 Other publications 
 ==================
+10 - van Leeuwen, A. F. M., Ryan, E., Dickson, M., **Della Penna, A.**, & O’Callaghan, J. (2025, April). Insights into Monitoring Turbidity and Nutrient Dynamics in a Large Mesotidal Estuary. In Coastal Dynamics conference (pp. 744-750). Cham: Springer Nature Switzerland.
 9 - Doglioli A., Ballerini T. (eds). "People, science and instruments of the BioSWOT-Med Campaign.", (2025)  [doi.org/10.13155/105690] ([doi.org/10.13155/105690]), - contribution
 
 8 - Doglioli, A., Grégori, G., D'Ovidio, F.,[...], **Della Penna, A.,**, [...], "BioSWOT Med. Biological applications of the satellite Surface Water and Ocean Topography in the Mediterranean", (2024)
